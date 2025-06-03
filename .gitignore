@@ -1,2 +1,4 @@
 #Ignore .doc files
 *.doc
+/base
+my_app.go
